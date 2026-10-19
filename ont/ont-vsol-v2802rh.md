@@ -24,6 +24,8 @@ parent: V-SOL
 | Form Factor  | ONT                                                                   |
 
 ## List of firmwares and files
+- V2801RD_V1.2.1_260706_S1243.img (normal) Dated by: 2026-01-23
+
 
 - [V-SOL V2802RH | O3 Labs](https://www.tripleoxygen.net/wiki/ont/vsol/v2802rh)
 
